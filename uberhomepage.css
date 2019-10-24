@@ -1,0 +1,133 @@
+body{
+    max-height: 3000px;
+}
+
+header{
+    background-color:black;
+    height: 8%;
+    color: white;
+    padding-top: 20px;
+    width: 101%;
+    margin-left:-0.5%;
+}
+
+.menu{
+    margin-left: 1%;
+    cursor: pointer;
+}
+
+#uberhome{
+    margin-left:12%;
+    font-size:23px;
+    cursor: pointer;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.btn-signup{
+    background-color: #fff;
+    color: black;
+    border:solid 0px white;
+    padding: 4px 15px 10px 15px;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.ride{
+    height: 700px;
+    width: 96%;
+    background-image: url('happyride.jpg');
+    background-size: 100%;
+    margin: auto;
+}
+
+.products{
+    display: flex;
+    background-color: #fff;
+    color: black;
+    width: 75%;
+    height: 12%;
+    padding-top: 20px;
+    margin-left: 7%;
+    
+}
+
+.iprdspan{
+    background-color: #fff;
+    color: black;
+    border:solid 0px white;
+    padding: 4px 1px 8px 15px;
+    text-decoration: none;
+    cursor: pointer;
+    margin-left: 5%;
+    font-size: 20px;
+    align-content: center;
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+#signup{
+    background-color: black;
+    border: none;
+    color:white;
+    height: 8%;
+    font-size: 18px;
+    padding: 20 20 20 20;
+}
+
+.driverseat{
+    background-color: #fff;
+    width: 34%;;
+    border-top: gray solid 1px;
+    margin-left: 7%;
+    padding-left: 50px;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.vehicles{
+    background-image: url("vehicle.jpg");
+    background-size: 100%;
+    height: 590px;
+    padding-top: 20px;
+    padding-left: 80px;
+}
+
+#youtube{
+    height: 590px;
+}
+
+div#community{
+    padding: 120px 105px 50px 150px;
+}
+
+div#aboutus{
+    padding: 50px 105px 50px 150px;
+    display: flex;
+}
+
+div#users{
+    padding: 50px 30px 50px 150px;
+    display: flex;
+}
+
+.userbtn{
+    font-size: 50px;
+    margin-left:3%;
+    border:none;
+    background-color: #fff;
+}
+
+#footer{
+    position: absolute;
+    width: 81%;
+    margin-left: -3%;
+    background-color: black;
+    color: white;
+    padding: 120px 105px 50px 150px;
+    display: flex;
+}
